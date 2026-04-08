@@ -3,4 +3,4 @@ A lifetime repository dedicated to mastering Python logic, Data Structures, and 
 
 
 # Consistency is the difference between a coder and an engineer."
-It sets a very strong tone
+
